@@ -1,0 +1,196 @@
+﻿  ProcessHandler.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(35,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(34,1): error C2146: syntax error: missing ';' before identifier 'WINAPI'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(69,12): error C3646: 'dwSize': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(69,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(70,12): error C3646: 'th32ProcessID': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(70,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(71,16): error C3646: 'th32HeapID': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(71,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(72,12): error C3646: 'dwFlags': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(72,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(84,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(83,1): error C2146: syntax error: missing ';' before identifier 'WINAPI'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(91,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(89,1): error C2086: 'int BOOL': redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(82): message : see declaration of 'BOOL'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(90,1): error C2146: syntax error: missing ';' before identifier 'WINAPI'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(98,12): error C3646: 'dwSize': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(98,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(99,12): error C3646: 'hHandle': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(99,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(100,15): error C3646: 'dwAddress': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(100,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(101,12): error C3646: 'dwBlockSize': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(101,23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(102,12): error C3646: 'dwFlags': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(102,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(103,12): error C3646: 'dwLockCount': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(103,23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(104,12): error C3646: 'dwResvd': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(104,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(105,12): error C3646: 'th32ProcessID': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(105,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(106,16): error C3646: 'th32HeapID': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(106,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(119,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(117,1): error C2086: 'int BOOL': redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(82): message : see declaration of 'BOOL'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(118,1): error C2146: syntax error: missing ';' before identifier 'WINAPI'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(127,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(125,1): error C2086: 'int BOOL': redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(82): message : see declaration of 'BOOL'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(126,1): error C2146: syntax error: missing ';' before identifier 'WINAPI'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(133,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(131,1): error C2086: 'int BOOL': redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(82): message : see declaration of 'BOOL'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(132,1): error C2146: syntax error: missing ';' before identifier 'WINAPI'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(146,13): error C3646: 'dwSize': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(146,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(147,13): error C3646: 'cntUsage': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(147,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(148,13): error C3646: 'th32ProcessID': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(148,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(149,15): error C3646: 'th32DefaultHeapID': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(149,32): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(150,13): error C3646: 'th32ModuleID': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(150,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(151,13): error C3646: 'cntThreads': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(151,23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(152,13): error C3646: 'th32ParentProcessID': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(152,32): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(153,13): error C3646: 'pcPriClassBase': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(153,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(154,13): error C3646: 'dwFlags': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(154,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(155,13): error C3646: 'szExeFile': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(155,22): error C2143: syntax error: missing ',' before '['
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(155,32): error C2238: unexpected token(s) preceding ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(162,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(160,1): error C2086: 'int BOOL': redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(82): message : see declaration of 'BOOL'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(161,1): error C2146: syntax error: missing ';' before identifier 'WINAPI'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(169,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(167,1): error C2086: 'int BOOL': redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(82): message : see declaration of 'BOOL'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(168,1): error C2146: syntax error: missing ';' before identifier 'WINAPI'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(176,13): error C3646: 'dwSize': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(176,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(177,13): error C3646: 'cntUsage': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(177,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(178,13): error C3646: 'th32ProcessID': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(178,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(179,15): error C3646: 'th32DefaultHeapID': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(179,32): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(180,13): error C3646: 'th32ModuleID': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(180,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(181,13): error C3646: 'cntThreads': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(181,23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(182,13): error C3646: 'th32ParentProcessID': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(182,32): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(183,13): error C3646: 'pcPriClassBase': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(183,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(184,13): error C3646: 'dwFlags': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(184,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(185,13): error C3646: 'szExeFile': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(185,22): error C2143: syntax error: missing ',' before '['
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(185,32): error C2238: unexpected token(s) preceding ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(192,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(190,1): error C2086: 'int BOOL': redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(82): message : see declaration of 'BOOL'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(191,1): error C2146: syntax error: missing ';' before identifier 'WINAPI'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(199,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(197,1): error C2086: 'int BOOL': redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(82): message : see declaration of 'BOOL'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(198,1): error C2146: syntax error: missing ';' before identifier 'WINAPI'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(216,13): error C3646: 'dwSize': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(216,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(217,13): error C3646: 'cntUsage': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(217,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(218,13): error C3646: 'th32ThreadID': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(218,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(219,13): error C3646: 'th32OwnerProcessID': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(219,31): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(220,13): error C3646: 'tpBasePri': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(220,22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(221,13): error C3646: 'tpDeltaPri': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(221,23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(222,13): error C3646: 'dwFlags': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(222,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(229,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(227,1): error C2086: 'int BOOL': redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(82): message : see declaration of 'BOOL'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(228,1): error C2146: syntax error: missing ';' before identifier 'WINAPI'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(236,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(234,1): error C2086: 'int BOOL': redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(82): message : see declaration of 'BOOL'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(235,1): error C2146: syntax error: missing ';' before identifier 'WINAPI'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(245,13): error C3646: 'dwSize': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(245,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(246,13): error C3646: 'th32ModuleID': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(246,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(247,13): error C3646: 'th32ProcessID': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(247,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(248,13): error C3646: 'GlblcntUsage': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(248,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(249,13): error C3646: 'ProccntUsage': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(249,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(250,11): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(250,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(250,24): error C2238: unexpected token(s) preceding ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(251,13): error C3646: 'modBaseSize': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(251,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(252,13): error C3646: 'hModule': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(252,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(253,13): error C3646: 'szModule': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(253,21): error C2143: syntax error: missing ',' before '['
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(253,44): error C2238: unexpected token(s) preceding ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(254,13): error C3646: 'szExePath': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(254,22): error C2143: syntax error: missing ',' before '['
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(254,32): error C2238: unexpected token(s) preceding ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(261,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(259,1): error C2086: 'int BOOL': redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(82): message : see declaration of 'BOOL'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(260,1): error C2146: syntax error: missing ';' before identifier 'WINAPI'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(268,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(266,1): error C2086: 'int BOOL': redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(82): message : see declaration of 'BOOL'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(267,1): error C2146: syntax error: missing ';' before identifier 'WINAPI'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(276,13): error C3646: 'dwSize': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(276,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(277,13): error C3646: 'th32ModuleID': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(277,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(278,13): error C3646: 'th32ProcessID': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(278,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(279,13): error C3646: 'GlblcntUsage': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(279,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(280,13): error C3646: 'ProccntUsage': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(280,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(281,11): error C2143: syntax error: missing ';' before '*'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(281,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(281,24): error C2238: unexpected token(s) preceding ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(282,13): error C3646: 'modBaseSize': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(282,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(283,13): error C3646: 'hModule': unknown override specifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(283,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(285,23): error C2065: 'MAX_PATH': undeclared identifier
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(297,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(295,1): error C2086: 'int BOOL': redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(82): message : see declaration of 'BOOL'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(296,1): error C2146: syntax error: missing ';' before identifier 'WINAPI'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(304,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(302,1): error C2086: 'int BOOL': redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(82): message : see declaration of 'BOOL'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\TlHelp32.h(303,1): error C2146: syntax error: missing ';' before identifier 'WINAPI'
+C:\Users\thecy\source\repos\SpotifySongDisplayer\SongGrubber\ProcessHandler.h(10,30): error C2065: 'WCHAR': undeclared identifier
+C:\Users\thecy\source\repos\SpotifySongDisplayer\SongGrubber\ProcessHandler.h(10,37): error C2065: 'exeName': undeclared identifier
+C:\Users\thecy\source\repos\SpotifySongDisplayer\SongGrubber\ProcessHandler.h(10,44): fatal error C1003: error count exceeds 100; stopping compilation
+  Spotify.cpp
+C:\Users\thecy\source\repos\SpotifySongDisplayer\SongGrubber\Spotify.h(12,16): error C2526: 'GetSpotifyProcesses': C linkage function cannot return C++ class 'std::vector<DWORD,std::allocator<DWORD>>'
+C:\Users\thecy\source\repos\SpotifySongDisplayer\SongGrubber\Spotify.h(12): message : see declaration of 'std::vector<DWORD,std::allocator<DWORD>>'
+C:\Users\thecy\source\repos\SpotifySongDisplayer\SongGrubber\Spotify.cpp(5,37): error C2556: 'std::vector<DWORD,std::allocator<DWORD>> GetSpotifyProcesses(void)': overloaded function differs only by return type from 'void GetSpotifyProcesses(void)'
+C:\Users\thecy\source\repos\SpotifySongDisplayer\SongGrubber\Spotify.h(12): message : see declaration of 'GetSpotifyProcesses'
+C:\Users\thecy\source\repos\SpotifySongDisplayer\SongGrubber\Spotify.cpp(5,15): error C2371: 'GetSpotifyProcesses': redefinition; different basic types
+C:\Users\thecy\source\repos\SpotifySongDisplayer\SongGrubber\Spotify.h(12): message : see declaration of 'GetSpotifyProcesses'
+C:\Users\thecy\source\repos\SpotifySongDisplayer\SongGrubber\Spotify.cpp(7): warning C4390: ';': empty controlled statement found; is this the intent?
+  Generating Code...

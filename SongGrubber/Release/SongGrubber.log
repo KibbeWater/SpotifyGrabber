@@ -1,0 +1,10 @@
+﻿  Main.cpp
+  ProcessHandler.cpp
+  Spotify.cpp
+C:\Users\thecy\source\repos\SpotifySongDisplayer\SongGrubber\Spotify.cpp(35,24): warning C4018: '<': signed/unsigned mismatch
+     Creating library C:\Users\thecy\source\repos\SpotifySongDisplayer\Release\SongGrubber.lib and object C:\Users\thecy\source\repos\SpotifySongDisplayer\Release\SongGrubber.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 25 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SongGrubber.vcxproj -> C:\Users\thecy\source\repos\SpotifySongDisplayer\Release\SongGrubber.dll

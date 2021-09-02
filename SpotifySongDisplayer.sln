@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SpotifySongDisplayer", "SpotifySongDisplayer\SpotifySongDisplayer.vcxproj", "{1A49BFC0-984A-46A7-9780-28ADC0BC110F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SongGrubber", "SongGrubber\SongGrubber.vcxproj", "{93E5D814-B5E7-4FBA-B8EE-912A01318068}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A49BFC0-984A-46A7-9780-28ADC0BC110F}.Debug|x64.ActiveCfg = Debug|x64
+		{1A49BFC0-984A-46A7-9780-28ADC0BC110F}.Debug|x64.Build.0 = Debug|x64
+		{1A49BFC0-984A-46A7-9780-28ADC0BC110F}.Debug|x86.ActiveCfg = Debug|Win32
+		{1A49BFC0-984A-46A7-9780-28ADC0BC110F}.Debug|x86.Build.0 = Debug|Win32
+		{1A49BFC0-984A-46A7-9780-28ADC0BC110F}.Release|x64.ActiveCfg = Release|x64
+		{1A49BFC0-984A-46A7-9780-28ADC0BC110F}.Release|x64.Build.0 = Release|x64
+		{1A49BFC0-984A-46A7-9780-28ADC0BC110F}.Release|x86.ActiveCfg = Release|Win32
+		{1A49BFC0-984A-46A7-9780-28ADC0BC110F}.Release|x86.Build.0 = Release|Win32
+		{93E5D814-B5E7-4FBA-B8EE-912A01318068}.Debug|x64.ActiveCfg = Debug|x64
+		{93E5D814-B5E7-4FBA-B8EE-912A01318068}.Debug|x64.Build.0 = Debug|x64
+		{93E5D814-B5E7-4FBA-B8EE-912A01318068}.Debug|x86.ActiveCfg = Debug|Win32
+		{93E5D814-B5E7-4FBA-B8EE-912A01318068}.Debug|x86.Build.0 = Debug|Win32
+		{93E5D814-B5E7-4FBA-B8EE-912A01318068}.Release|x64.ActiveCfg = Release|x64
+		{93E5D814-B5E7-4FBA-B8EE-912A01318068}.Release|x64.Build.0 = Release|x64
+		{93E5D814-B5E7-4FBA-B8EE-912A01318068}.Release|x86.ActiveCfg = Release|Win32
+		{93E5D814-B5E7-4FBA-B8EE-912A01318068}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E59FF1B-62AE-480E-A5C5-3C6484CF649C}
+	EndGlobalSection
+EndGlobal
